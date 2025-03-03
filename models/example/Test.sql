@@ -1,1 +1,1 @@
-Select 1 as Test
+Select 1 as Test,2 as Test2
